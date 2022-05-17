@@ -1,0 +1,107 @@
+    /*
+Theme name: Bamboo
+Version: 1.0
+Description: Sitio para catálogo de productos
+Author: Santiago Rodríguez
+Authon URI: http://github.com/intbusinessanto
+License: GNU General Public Licence v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+*/
+    
+    a,
+    h1,
+    h2,
+    h3,
+    h4,
+    li,
+    p,
+    span,
+    ul {
+        font-family: Montserrat
+    }
+    
+    .attachment-large {
+        max-width: 100%;
+        height: auto!important
+    }
+    
+    h1 {
+        margin: 50px 0;
+        font-weight: 900;
+    }
+    
+    ul {
+        margin-bottom: 0px;
+    }
+    
+    header {
+        background-color: #1c3643;
+        max-height: 120px;
+        padding: 10px 0;
+    }
+    
+    header nav li {
+        list-style: none;
+        display: inline-block;
+        padding: 0 15px
+    }
+    
+    header nav li a {
+        color: #fff;
+        text-transform: uppercase
+    }
+    
+    header nav li a:hover {
+        color: #fff
+    }
+    
+    header img {
+        max-width: 80px;
+        height: 80px;
+    }
+    
+    main img {
+        max-width: 100%;
+        height: auto!important
+    }
+    
+    main img {
+        max-width: 100%;
+        height: auto!important
+    }
+    
+    footer {
+        background-color: #1c3643;
+        padding: 10px 0
+    }
+    
+    footer {
+        color: white
+    }
+    
+    footer p {
+        margin: 0;
+        color: #fff
+    }
+    
+    .list-products h2 {
+        font-weight: 900
+    }
+    
+    .list-products h3 {
+        font-size: 15px;
+        font-weight: 900;
+    }
+    
+    .list-products h4 {
+        font-weight: 400
+    }
+    
+    .list-products h4 a {
+        color: #000;
+    }
+    
+    .santo {
+        max-width: 450px;
+    }
